@@ -1,5 +1,4 @@
 import './App.css';
-import giridhariImage from './assets/Giridhari_Karmakar.jpeg';
 
 function App() {
   return (
@@ -8,7 +7,7 @@ function App() {
 
       <img
         className="w-60 h-64 my-4 border-4 border-black rounded-xl shadow-lg"
-        src={giridhariImage}
+        src="/Giridhari_Karmakar.jpeg"
         alt="Giridhari Karmakar"
       />
 
