@@ -14,15 +14,15 @@ function App() {
           src="/Giridhari_Karmakar.jpeg"
           alt="Giridhari Karmakar"
         />
-
       </div>
 
       {/* About Section */}
       <section className="mt-10 text-gray-800">
         <h3 className="text-3xl font-bold">You know who I am</h3>
         <p className="text-lg mt-2 text-gray-700 max-w-3xl">
-          Hi! I'm Giridhari Karmakar, a passionate and detail-oriented <strong>Software Engineer</strong> with experience
-          in full-stack development. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+          Hi! I'm Giridhari Karmakar — a passionate and detail-oriented <strong>Software Engineer</strong> with excellent problem-solving skills and a strong ability to perform well in a team.
+          I'm also an <strong>Author</strong>, <strong>Philosopher</strong>, and the <strong>Founder & CEO of KaloOne</strong>.
+          I have experience in full-stack development and enjoy turning complex problems into simple, beautiful, and intuitive solutions.
           I specialize in building responsive web applications using modern technologies.
         </p>
 
