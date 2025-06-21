@@ -15,7 +15,7 @@ function App() {
           alt="Giridhari Karmakar"
         />
       </div>
-
+{/* the is home page */}
       {/* About Section */}
       <section className="mt-10 text-gray-800">
         <h3 className="text-3xl font-bold">You know who I am</h3>
